@@ -1,5 +1,5 @@
-# wadl-practicals
-best of luck!
+# simple mmini project
+
 
 
  
